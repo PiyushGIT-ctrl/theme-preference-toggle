@@ -75,7 +75,7 @@ script.js
 
 ---
 
-## 💡 Key Concepts Used
+## Key Concepts Used
 
 * `matchMedia()` for system detection
 * `classList` for dynamic styling
@@ -84,16 +84,14 @@ script.js
 
 ---
 
-## 🔥 What I Learned
+## What I Learned
 
 * Difference between **system preference vs user preference**
-* Handling real-world UI state logic
 * Debugging browser-specific behavior (Brave forcing dark mode)
-* Importance of persistence in UX
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add toggle icon (🌙 / ☀️)
 * Add transition animations between themes

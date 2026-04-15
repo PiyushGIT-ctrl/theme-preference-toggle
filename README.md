@@ -102,10 +102,4 @@ script.js
 
 ---
 
-## 🧪 Preview
-
-A clean centered UI with a toggle button that switches between dark and light themes.
-
----
-
 💡 Built as part of my JavaScript learning journey.

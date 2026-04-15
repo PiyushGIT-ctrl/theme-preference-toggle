@@ -5,17 +5,17 @@ This project detects the user's system theme, allows manual toggling, and persis
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🌙 Detects system theme using `prefers-color-scheme`
-* 🔁 Real-time update when system theme changes
-* 🎯 Manual theme toggle button
-* 💾 Saves user preference using `localStorage`
-* ⚡ Smooth UI transitions using CSS
+*  Detects system theme using `prefers-color-scheme`
+*  Real-time update when system theme changes
+*  Manual theme toggle button
+*  Saves user preference using `localStorage`
+*  Smooth UI transitions using CSS
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### 1. System Theme Detection
 
